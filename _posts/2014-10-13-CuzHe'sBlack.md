@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cuz He's Black
-comments:true
+comments:
 ---
 
 Cuz he’s black
