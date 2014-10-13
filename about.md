@@ -10,12 +10,6 @@ image:
 share: true
 ---
 
----
-layout: page
-title: About
-permalink: /about/
----
-
 Hi, I'm Hope. Some people call me Hopie "pronounced Ho-pee," not hoppy. 
 
 Like really..don't call me hoppy (:
