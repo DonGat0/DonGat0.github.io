@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Cuz He's Black
 ---
@@ -19,4 +20,3 @@ I nod my head as if my mother was there with me in the room.
 I respond, “Alright, mom I’ll be careful.”  I tell her I love her and then we hang up. 
 
 
-comments: true
