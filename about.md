@@ -10,23 +10,33 @@ image:
 share: true
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-## What HPSTR brings to the table:
+Hi, I'm Hope. Some people call me Hopie "pronounced Ho-pee," not hoppy. 
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+Like really..don't call me hoppy (:
+
+I was born in Niles, Michigan and lived there very briefly. Moved to South Bend, IN and lived there until 4th grade. Fun life, diverse people (REALLY diverse...), but the 'rents thought the school system was underwhelming. 
+
+Moved to central Indiana and basically lived there till I graduated High School. Did the whole sports(football), marching band(concert band, jazz band, all the bands), and after school activiteis gig and enjoyed a very social and lovely teenage life. Then I realized college existed during senior year and applied furiously (and surprisingly got into) the University of Michigan in Ann Arbor!
+
+Been here for 4 years. Can't complain. Fumbled through various majors. "History sounds good why not?", "Oooo I love computers, computer science it is", "oh wait, I'm premed right? Oh yea, time to take some chemistry classes." Fumbled straight into a Chemistry major. Not my intention(chemistry is hard), but it seemed to work out(As in, I can graduate on time). Getting my B.S. in Chemistry and Informatics in May 2015. Scared s#%t-less but it has to happen sooner or later.
+
+Which brings me to the purpose of my blog. I'm hopelessy caught up in the abstract and I like to take creative freedom with most things I do. I have a few things to show for it; I've made a video game, drawn a bit, and made a few music tracks.
+
+However..
+
+This being my last year in college, I wanted one last hurrah into unknown territories. 
+
+I plan to do a 30 day experiment where the goal is to do something creative EVERYDAY. Yep, EVERYDAY!! I like to think this would be an easy task(being a self-proclaimed creative), but I know it won't. Being ambitious in everything but school, I want to jump into communities that would allow me to work on different mediums such as audio mixtaping, podcasting, poetry, video game design, and even places to teach me how to design this site more elaborately! Those will be my targets and I hope to put up something every other day! Look at me overpromising already! Ha!
+
+My purpose is to explore the different avenues people use to create masterpieces. Some pathways are straightforward, but many are abstract. Not having many outlets to expend this creative energy in the past(due to school), I hope to go all-out on this project! It'll be something I want to continue to do after my english class(which is my original motivation to try it).
+
+Hope you'll enjoy this journey with me!
 
 <div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
 
