@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Cuz He's Black
 ---
