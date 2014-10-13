@@ -1,7 +1,8 @@
 ---
+comments: true
 layout: post
 title: Where am I going with this?
-comments:true
+
 ---
 
 Or more importantly, “Why Should you care?”
