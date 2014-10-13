@@ -32,6 +32,4 @@ My purpose is to explore the different avenues people use to create masterpieces
 
 Hope you'll enjoy this journey with me!
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
 
-[^1]: Example: *domain.com/category-name/post-title*
